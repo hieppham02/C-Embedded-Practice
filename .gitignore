@@ -1,0 +1,19 @@
+# Keil uVision / STM32 Build files
+*.bak
+*.dep
+*.ico
+*.map
+*.lst
+*.obj
+*.o
+*.d
+*.crf
+*.elf
+*.hex
+*.bin
+*.axf
+Debug/
+Release/
+Objects/
+Listings/
+.vscode/
